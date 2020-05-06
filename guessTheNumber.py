@@ -15,3 +15,5 @@ while check:
             guess = input("It's too small! Try again! \n")
     else:
         guess = input("It's not a number! Try again! \n")
+
+        #slight changes, testing don't ask
